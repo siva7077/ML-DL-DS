@@ -1,6 +1,3 @@
-step1 :  do , touch .env then OPENAI_API_KEY=your_openai_api_key
-step 2 : pip install -r requirements.txt
-step3 : streamlit run app/streamlit_app.py
 
 
 # 📄 AI Chatbot for PDF Documents
@@ -31,11 +28,7 @@ An interactive chatbot that lets you upload a PDF and ask questions based on its
 4. Run the app:  
    `streamlit run app/streamlit_app.py`
 
-## 📸 Screenshot
 
-*(Add a screenshot here of the app in action)*
-
----
 
 ## 🧠 Future Ideas
 
