@@ -1,0 +1,9 @@
+sentence-transformers
+transformers
+huggingface-hub
+langchain
+faiss-cpu
+streamlit
+python-dotenv
+PyPDF2
+tiktoken
