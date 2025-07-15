@@ -1,0 +1,5 @@
+mkdir ai-doc-chatbot && cd ai-doc-chatbot
+mkdir data src app
+touch requirements.txt README.md .gitignore
+touch src/loader.py src/embedder.py src/vector_store.py src/chatbot.py
+touch app/streamlit_app.py
